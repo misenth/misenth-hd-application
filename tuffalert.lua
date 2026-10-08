@@ -1,10 +1,10 @@
 --my discord is @misenthropic and my roblox username is misenthropic
---if the github being "misenth" wasn't enough
---gun client script i made a while back for a system i was trying to make. 
---chosen to fit the 200+ lines mark.
---even though line count shouldn't determine ability.
+--gun client script i made a while back for a combat system i was trying to make. 
 --lots of client side effects plus their replication are handled here 
 --and the gun object is set up
+--also for the networking i would probably use packet or instead of a random ahh remote event/function for everything
+--it had to do with the way the system worked. i'm not working on this anymore and haven't in a long time. the client script was just conveniently long
+--also uses a couple open source modules
 --roblox user id 177241457
 
 --//PREACH
